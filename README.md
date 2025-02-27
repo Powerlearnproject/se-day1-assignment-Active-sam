@@ -23,11 +23,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
  // 7:Maintenance – Updating and improving the software over time.
  
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
- 
+  // In deveolopment: AGILE is intaractive and incremental while.
+    Eg: Web and Mobile App Development – Frequent updates and changing user needs require flexibility.
+  //WATERFALL is linear and sequential.
+    Eg: Government or Defense Software – Requires detailed planning, documentation, and compliance with strict regulations.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
  // 1:Software Developer – Writes, tests, and maintains code.
- // 2:Quality Assurance (QA) Engineer – Ensures software meets quality standards through testing.
+ // 2:Quality Assurance Engineer – Ensures software meets quality standards through testing.
  // 3:Project Manager – Oversees project planning, timeline management, and team coordination.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
